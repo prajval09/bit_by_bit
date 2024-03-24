@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632587840857",
+    "project_id": "kisanlink-b3e91",
+    "storage_bucket": "kisanlink-b3e91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632587840857:android:ea1ac2b539e2f627a3f048",
+        "android_client_info": {
+          "package_name": "com.example.kisanlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpc8_EzQWYGbEjtrEXJfp_3VzH9gHEfVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
